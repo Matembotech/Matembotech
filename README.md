@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi Am Ibrahim Abdulrahman Maulid 
+   #Matembo Tech
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
