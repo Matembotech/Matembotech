@@ -1,4 +1,7 @@
-![Image1](./assets/images/image1.png)
+<div align="center">
+  <img src="https://github.com/Matembotech/Matembotech/blob/main/assets/images/Image1.png" alt="matembo-image" />
+</div>
+
 # <h1 style="letter-spacing: 2px;">👋 Hi, I'm Ibrahim Maulid </h1>
 💻 Full-Stack Developer | 🌍 Problem Solver | 🎥 Tech Content Creator
 
@@ -67,7 +70,8 @@ I build real-world web applications using modern technologies and share what I l
 > Learning using documentation (not just tutorials)
 
 ## Let’s Connect
-<img src="https://img.shields.io/badge/FACEBOOK-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="FACEBOOK badge">
+<div style="display: flex">
+ <img src="https://img.shields.io/badge/FACEBOOK-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="FACEBOOK badge">
 <img src="https://img.shields.io/badge/INSTAGRAM-E1206C?logo=instagram&logoColor=white&style=for-the-badge" alt="INSTAGRAM badge">
 <img src="https://img.shields.io/badge/X-1da1F2?logo=x&logoColor=white&style=for-the-badge" alt="X badge">
 
@@ -75,6 +79,8 @@ I build real-world web applications using modern technologies and share what I l
 
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LINKEDIN badge">
 <img src="https://img.shields.io/badge/TIKTOK-010101?logo=tiktok&logoColor=white&style=for-the-badge" alt="TIKTOK badge">
+
+</div>
 
 ## GitHub Stats
 <p align="center">
@@ -88,6 +94,7 @@ I build real-world web applications using modern technologies and share what I l
 <div align="center">
   <img src="./assets/images/gif4.gif" alt="GIF" />
 </div>
+
 
 
 
